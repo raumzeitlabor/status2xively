@@ -27,5 +27,5 @@ feed.update(update_data)
 try:
 	feed.put()
 except Exception, err:
-	print "Couldn't send data to pachube: ", err
+	print "Couldn't send data to xively: ", err
 
