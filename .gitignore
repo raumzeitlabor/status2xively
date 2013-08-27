@@ -1,0 +1,6 @@
+# Python
+*.pyc
+
+# project specific
+update.log
+config.py
